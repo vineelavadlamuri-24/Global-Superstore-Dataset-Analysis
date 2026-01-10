@@ -63,10 +63,10 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During this internship, I gained hands-on experience in data analysis using SQL and Power BI.
+I learned data cleaning, data modeling, and creating interactive dashboards for business insights.
+The internship strengthened my analytical thinking, problem-solving, and data visualization skills.
+I also improved my teamwork, documentation, and ability to deliver real-world, data-driven solutions.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
@@ -91,24 +91,25 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+- [Kaggle](https://kaggle.com)
+
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+Life Skills Training (LST) and Soft Skills Training (SST) sessions helped me develop essential personal and professional skills.
+I improved my communication, time management, and interpersonal abilities through practical activities.
+These sessions enhanced my confidence, teamwork, adaptability, and problem-solving skills.
+Overall, LST and SST played an important role in preparing me for workplace and career challenges.
 
 ## **Community Services**
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
-
+During my internship period, I actively participated in community-oriented activities such as blood donation drives, plantation programs, and helping elderly people.
+These experiences helped me understand the importance of social responsibility and giving back to society.
+I developed empathy, teamwork, and a sense of civic awareness through direct community involvement.
+Overall, these activities were meaningful and contributed to my personal growth beyond technical learning.
 ### **Activities Involved**
 <!-- add the location where you given -->
 - **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
